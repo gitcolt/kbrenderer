@@ -1,6 +1,6 @@
 #include "usb.h"
 #include "render_buffer.h"
-#include "keys.h"
+#include "key.h"
 #include "color.h"
 #include "letter.h"
 

@@ -1,4 +1,4 @@
-#include "keys.h"
+#include "key.h"
 
 #include <libusb-1.0/libusb.h>
 #include <stdint.h>
